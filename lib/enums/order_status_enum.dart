@@ -1,0 +1,7 @@
+
+
+
+enum OrderStatus {
+  inCart,
+  orderDone
+}
